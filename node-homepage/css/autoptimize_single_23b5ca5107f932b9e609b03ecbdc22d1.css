@@ -1,0 +1,84 @@
+.elementor-191 .elementor-element.elementor-element-302e6e74>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap{
+    align-content:center;
+    align-items:center
+}
+.elementor-191 .elementor-element.elementor-element-302e6e74{
+    transition:background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    margin-top:0;
+    margin-bottom:-125px;
+    z-index:1
+}
+.elementor-191 .elementor-element.elementor-element-302e6e74>.elementor-background-overlay{
+    transition:background .3s,border-radius .3s,opacity .3s
+}
+.elementor-191 .elementor-element.elementor-element-cf34f5c>.elementor-element-populated{
+    padding:50px
+}
+.elementor-191 .elementor-element.elementor-element-e32c93c .elementor-heading-title{
+    font-family:"Bahnschrift",Sans-serif;
+    font-weight:400;
+    letter-spacing:2px
+}
+.elementor-191 .elementor-element.elementor-element-191435f0>.elementor-element-populated{
+    padding:50px
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .icon-bars .icon-bar{
+    background-color:#ddd;
+    height:3px
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .icon-bars:hover .icon-bar{
+    background-color:#fff
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .icon-bars{
+    margin-left:auto;
+    width:25px;
+    height:25px
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .icon-bars .bar-top{
+    margin-top:-8px
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .icon-bars .bar-bottom{
+    margin-top:8px
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .menu-overlay{
+    background-color:#222
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .content-type-menu a{
+    color:#ddd;
+    background-color:#222
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .content-type-menu a:hover{
+    color:#fff;
+    background-color:#222
+}
+.elementor-191 .elementor-element.elementor-element-e7802ab .content-type-menu li{
+    text-align:center
+}
+@media(max-width:767px){
+    .elementor-191 .elementor-element.elementor-element-302e6e74{
+        margin-top:0;
+        margin-bottom:-65px
+    }
+    .elementor-191 .elementor-element.elementor-element-cf34f5c{
+        width:50%
+    }
+    .elementor-191 .elementor-element.elementor-element-cf34f5c>.elementor-element-populated{
+        padding:20px
+    }
+    .elementor-191 .elementor-element.elementor-element-191435f0{
+        width:50%
+    }
+    .elementor-191 .elementor-element.elementor-element-191435f0>.elementor-element-populated{
+        padding:20px
+    }
+    .elementor-191 .elementor-element.elementor-element-e7802ab .content-type-menu a{
+        font-size:2rem
+    }
+}
+@font-face{
+    font-family:'Bahnschrift';
+    font-style:normal;
+    font-weight:400;
+    font-display:auto;
+    src:url('../fonts/BAHNSCHRIFT.ttf') format('truetype')
+}
